@@ -1,0 +1,32 @@
+body{
+    margin:0;
+}
+#header-link header{
+    background-color: red;
+    display:flex;
+    justify-content:space-between;
+    ul{
+        // display:inline-block;
+     display:flex;
+    // align-items: center;
+
+    // flex-direction:row;
+    // margin:10px;
+  li{
+     // display:inline-block;
+     
+      margin:0 10px 0 10px;
+      list-style:none;
+    //   .user-name{
+    //     position:absolute;
+    //     top:0;
+    //     right:10%;
+    //   }
+    //   .user-signUp{
+    //     position:absolute;
+    //     top:0;
+    //     right:0;
+    //   }
+       
+  }
+}}
